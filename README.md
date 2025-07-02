@@ -1,1 +1,2 @@
-En el presente laboratorio se presenta el desarollo de un programa de clasificación de señales de tránsito, este proyecto se puede apreciar en la siguiente dirección: https://www.youtube.com/watch?v=SWaYRyi0TTs
+En el presente laboratorio se presenta el desarollo de un programa de clasificación de señales de tránsito, este proyecto se puede apreciar en la siguiente dirección: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmE2OXZiX1NiWmJIRnZEeFdhbGRiYXlLVjhOUXxBQ3Jtc0ttajY0TmFrSHJoZklndWNVeVVZVUtsYmVxUGgxUjNtTnp2WV90a3dtdUhSVEdyX2p3TW1xOTB5SXRsdFJZRXhWUXIxRjVtaEh3T0JxM1hSU19sdUlPWjNIb20xS0NkTmRNU2JDYnNpcldrbVZ0b084TQ&q=https%3A%2F%2Fwww.computervision.zone%2Fcourses%2Ftraffic-sign-classification%2F&v=SWaYRyi0TTs 
+
